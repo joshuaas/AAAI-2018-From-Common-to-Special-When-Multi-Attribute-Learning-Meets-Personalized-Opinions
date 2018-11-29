@@ -1,7 +1,6 @@
 <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 
 #### Discription
----
 This is a matlab implementation of our AAAI 2018 paper: 
 
 *Zhiyong Yang, Qianqian Xu, Xiaochun Cao, Qingming Huang:From Common to Special: When Multi-Attribute Learning Meets Personalized Opinions. AAAI 2018: 515-522 *
@@ -33,7 +32,6 @@ $$  (1/2) * \sum_{i,j} || y^{(i,j)} - X^{(i,j)}(\theta + p^{(i)} + u^{(i,j)})||^
 
 ---
 #### Paramters
----
 
 
 
