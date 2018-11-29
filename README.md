@@ -30,24 +30,10 @@ We would like to thank Dr. Jiayu Zhou for providing the [MALSAR package](https:/
 ---
 #### Paramters
 
-| X(Input feature) | A cell with scale num_t \* num_u, where num_t is the number of attributes, and num_u represents the number of annotaters for each attribute.Each element of X (X{i,j}) is an input feature matrix with scale num_sample * num_feature. |
+| X(Input feature) |  A cell with scale num_t \* num_u, where num_t is the number of attributes, and num_u represents the number of annotaters for each attribute.Each element of X (X{i,j}) is an input feature matrix with scale num_sample * num_feature. |
 | ------ | ------ |
 | Y(Input label) |   A cell with scale num_t \* num_u, where num_t is the number of attributes, and num_u    represents the number of annotaters for each attribute.Each Y (Y{i,j}) is an input label vector with scale num_sample * 1.  |
 |lambda1  | see the objective function |
 |lambda2  | see the objective function |
 |lambda3  |  see the objective function |
 |opts  |  The same as MALSAR  |
-
-
- **X(Input feature)**: A cell with scale num_t \* num_u, where num_t is the number of attributes, and num_u represents the number of annotaters for each attribute.Each element of X (X{i,j}) is an input feature matrix with scale num_sample * num_feature. 
-                  
- **Y(Input label)**:  A cell with scale num_t \* num_u, where num_t is the number of attributes, and num_u    represents the number of annotaters for each attribute.Each Y (Y{i,j}) is an input label vector with scale num_sample * 1. 
-                  
-  **lambda1**:        see the objective function
-  
-  **lambda2**:        see the objective function 
-  
-  **lambda3**:        see the objective function
-  
-  **opts**:            The same as MALSAR 
-
