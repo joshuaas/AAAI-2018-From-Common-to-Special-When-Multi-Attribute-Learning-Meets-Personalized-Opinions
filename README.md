@@ -23,11 +23,8 @@ If you use our code, please cite our with the following bibtex code :
 ---
 
 #### Acknowledgements
-<<<<<<< HEAD
-
 =======
 --- 
->>>>>>> 3565cda587421c9967264204dfb86079b8337994
 We would like to thank Dr. Jiayu Zhou for providing the [MALSAR package](https://github.com/jiayuzhou/MALSAR, "MALSAR package") 
 
 ---
@@ -55,8 +52,5 @@ $$  (1/2) * \sum_{i,j} || y^{(i,j)} - X^{(i,j)}(\theta + p^{(i)} + u^{(i,j)})||^
   
   **lambda3**:        see the objective function
   
-<<<<<<< HEAD
   **opts**:            The same as MALSAR
-=======
-  **opts**:            The same as MALSAR
->>>>>>> 3565cda587421c9967264204dfb86079b8337994
+
