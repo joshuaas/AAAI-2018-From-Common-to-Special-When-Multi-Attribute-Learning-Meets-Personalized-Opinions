@@ -25,8 +25,7 @@ We would like to thank Dr. Jiayu Zhou for providing the [MALSAR package](https:/
 ---
 #### Objective Function
 
-$$(1/2) * \sum_{i,j}  y^{(i,j)} - X^{(i,j)}(\theta + p^{(i)} + u^{(i,j)})^2 
-+ \lambda_1 P_{1,2} + \lambda_2 U ^{\top}_{1,2} + \lambda_3 \theta_2^2$$
+$$(1/2) * \sum_{i,j}  y^{(i,j)} - X^{(i,j)}(\theta + p^{(i)} + u^{(i,j)})^2 + \lambda_1 P_{1,2} + \lambda_2 U ^{\top}$$
 
 ---
 #### Paramters
