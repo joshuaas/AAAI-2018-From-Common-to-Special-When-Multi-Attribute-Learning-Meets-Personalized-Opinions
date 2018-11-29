@@ -3,7 +3,7 @@
 #### Discription
 This is a matlab implementation of our AAAI 2018 paper: 
 
-*Zhiyong Yang, Qianqian Xu, Xiaochun Cao, Qingming Huang:From Common to Special: When Multi-Attribute Learning Meets Personalized Opinions. AAAI 2018: 515-522 *
+*Zhiyong Yang, Qianqian Xu, Xiaochun Cao, Qingming Huang:From Common to Special: When Multi-Attribute Learning Meets Personalized Opinions. AAAI 2018: 515-522*
 
 If you use our code, please cite our with the following bibtex code :
 
