@@ -32,8 +32,8 @@ $$(1/2) * \sum_{i,j}  y^{(i,j)} - X^{(i,j)}(\theta + p^{(i)} + u^{(i,j)})^2 + \l
 
 
 
-
- ` **X(Input feature)**: A cell with scale num_t \* num_u, where num_t is the number of attributes, and num_u represents the number of annotaters for each attribute.Each element of X (X{i,j}) is an input feature matrix with scale num_sample * num_feature. 
+``
+  **X(Input feature)**: A cell with scale num_t \* num_u, where num_t is the number of attributes, and num_u represents the number of annotaters for each attribute.Each element of X (X{i,j}) is an input feature matrix with scale num_sample * num_feature. 
                   
  **Y(Input label)**:  A cell with scale num_t \* num_u, where num_t is the number of attributes, and num_u    represents the number of annotaters for each attribute.
                   Each
@@ -45,5 +45,5 @@ $$(1/2) * \sum_{i,j}  y^{(i,j)} - X^{(i,j)}(\theta + p^{(i)} + u^{(i,j)})^2 + \l
   
   **lambda3**:        see the objective function
   
-  **opts**:            The same as MALSAR `
-
+  **opts**:            The same as MALSAR 
+``
