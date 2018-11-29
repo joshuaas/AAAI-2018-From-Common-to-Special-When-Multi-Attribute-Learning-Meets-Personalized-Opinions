@@ -23,8 +23,6 @@ If you use our code, please cite our with the following bibtex code :
 ---
 
 #### Acknowledgements
-=======
---- 
 We would like to thank Dr. Jiayu Zhou for providing the [MALSAR package](https://github.com/jiayuzhou/MALSAR, "MALSAR package") 
 
 ---
